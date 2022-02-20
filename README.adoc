@@ -4,7 +4,7 @@ v1, 2022-02-20 : Initial draft
 :icons: font
 :diagrams: .
 :experimental:
-:classroom-link: https://classroom.github.com/a/4var6sCc
+:classroom-link: https://classroom.github.com/a/gWXnQmIT
 :imagesdir: images
 
 // Useful definitions
