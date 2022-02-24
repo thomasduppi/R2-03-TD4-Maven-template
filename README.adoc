@@ -75,7 +75,7 @@ On ne peut malheureusement pas exécuter d'application puisqu'on n'a pas de main
 [source,java]
 ----
 class HelloJava {	
-    public static void main(String[] args) {
+        public static void main(String[] args) {
 		System.out.println("Hello Blagnac");
 	}
 
@@ -104,7 +104,7 @@ image::success2.png["Ca run!", width=80%]
 . Reprenez un de vos exercice précédent et mettez les sources dans `src/java`.
 . Ajustez éventuellement le `pom.xml` pour que les étapes précédentes produisent les résultats escomptés.
 . Ajoutez les commentaires vus en dev.
-. Cherchez dans la doc {maven} ce qu'il vous faut ajouter à votre `pom.xml` pour que {maven} génère la documentation automatiquement pour vous.
+. Cherchez dans la documentation {maven} les commandes permettant de générer une documentation javadoc, et les adaptions à faire sur votre projet (et éventuellement `pom.xml`) afin que {maven} génère la documentation automatiquement pour vous.
 
 == Consignes et rendus
 
