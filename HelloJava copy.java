@@ -1,6 +1,0 @@
-
-class HelloJava {
-	public afficherCancan(){
-
-	}
-}
