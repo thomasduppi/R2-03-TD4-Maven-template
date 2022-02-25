@@ -39,6 +39,24 @@ Cela permet :
 
 WARNING: Les illustrations utilisent {vscode}, mais peu importe que vous utilisiez un autre IDE comme {eclipse} ou {intellij}, il vous suffit d'adapter à votre IDE (qu'il vous faut apprendre à connaître).
 
+.Pour les utilisateurs des machines IUT (merci à Léo Faletti)
+[WARNING]
+====
+Pour ceux qui veulent lancer les commandes {maven} sur leur machine :
+
+. Placez vous dans le répertoire cloné (par exemple `r2-03-td4-maven-Falettiattendre`)
+. Ouvrez une invite de commande Windows (CMD) dans ce répertoire
+. Tapez la commande :
++
+....
+set JAVA_HOME=C:\Program Files\Java\jdk-17.0.1
+....
++
+. Vous pouvez maintenant taper les commandes {maven}
+
+Vous pouvez aussi importer dans eclipse votre projet maven puis faire exécuter à eclipse votre `pom.xml` (menu:Run as...[Maven]).
+====
+
 == C'est parti
 
 === 1ère compilation : erreur de comilation
