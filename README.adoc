@@ -39,7 +39,7 @@ Cela permet :
 
 WARNING: Les illustrations utilisent {vscode}, mais peu importe que vous utilisiez un autre IDE comme {eclipse} ou {intellij}, il vous suffit d'adapter à votre IDE (qu'il vous faut apprendre à connaître).
 
-.Pour les utilisateurs des machines IUT (merci à Léo Faletti)
+.Pour les utilisateurs des machines IUT (merci à Rémy Guibert)
 [WARNING]
 ====
 Pour ceux qui veulent lancer les commandes {maven} sur leur machine :
